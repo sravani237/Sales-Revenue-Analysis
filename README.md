@@ -27,3 +27,6 @@ This project analyzes sales data to understand revenue trends, profitability, re
 
 ## Conclusion
 This project demonstrates the use of Excel, SQL, and Power BI to analyze sales performance, evaluate profitability, and present business insights through interactive visualizations.
+## Dashboard Preview
+
+![Sales & Revenue Analysis Dashboard](YOUR-SCREENSHOT-FILENAME.png)
